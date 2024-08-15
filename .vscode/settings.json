@@ -1,0 +1,8 @@
+{
+  "debug.console.acceptSuggestionOnEnter": "on",
+  "debug.console.closeOnEnd": false,
+  "debug.hideLauncherWhileDebugging": false,
+  "debug.console.collapseIdenticalLines": true,
+  "debug.console.historySuggestions": true,
+  "workbench.panel.defaultLocation": "bottom"
+}
